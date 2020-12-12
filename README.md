@@ -21,7 +21,7 @@ And what you would get is :
 
 
 But by using Java to execute this command, we actually can manipulate the output and calculate the percentage of the memory used so, we get something like this : 
-![](top 1.PNG)
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%201.PNG)
 
 
 
@@ -60,22 +60,22 @@ This app is built to only run on Ubuntu 16.04 and Ubuntu 18.04, if you try runni
 ## Examples
 
 This is what is printed when running the app first time :
-![]top 1.PNG
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%201.PNG)
 
 
 In the menu, you can:
 > 1 -   Refresh top
 
 > 2 -        Show process of a specific user
-![]top 2.PNG
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202.PNG)
 The result is:
 
-![]top 2u.PNG
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202u.PNG)
 > 3 - Kill a process
-![]top 3.PNG
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%203.PNG)
 
 The Result is :
-![]top 3u.PNG
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%203u.PNG)
 
 ### This App Is Coded by : 
 
