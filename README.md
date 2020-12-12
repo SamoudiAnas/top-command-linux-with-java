@@ -21,7 +21,7 @@ And what you would get is :
 
 
 But by using Java to execute this command, we actually can manipulate the output and calculate the percentage of the memory used so, we get something like this : 
-![]top 1.PNG
+![](top 1.PNG)
 
 
 
