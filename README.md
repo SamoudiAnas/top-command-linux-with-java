@@ -15,7 +15,7 @@
 top
 ```
 And what you would get is :
-![]top.jpg
+![Alt text]top.jpg
 
 
 
