@@ -16,7 +16,7 @@ top
 ```
 And what you would get is :
 
-![]https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top.jpg
+![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top.jpg)
 
 
 
