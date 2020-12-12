@@ -55,7 +55,7 @@ java topCommand
 
 This app is built to only run on Ubuntu 16.04 and Ubuntu 18.04, if you try running the app from a different OS you may experience some errors and bugs.
 
-![]top 1.PNG
+
 
 ## Examples
 
