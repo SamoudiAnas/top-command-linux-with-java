@@ -15,7 +15,8 @@
 top
 ```
 And what you would get is :
-![Alt text]top.jpg
+
+![]https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top.jpg
 
 
 
