@@ -67,11 +67,16 @@ In the menu, you can:
 > 1 -   Refresh top
 
 > 2 -        Show process of a specific user
+>
+
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202.PNG)
+
 The result is:
 
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202u.PNG)
 > 3 - Kill a process
+
+>
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%203.PNG)
 
 The Result is :
