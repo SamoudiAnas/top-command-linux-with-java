@@ -73,7 +73,7 @@ In the menu, you can:
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202.PNG)
 
 The result is:
-\
+
 
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202u.PNG)
 > 3 - Kill a process
