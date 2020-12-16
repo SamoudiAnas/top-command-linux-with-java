@@ -20,7 +20,8 @@ And what you would get is :
 
 
 
-But by using Java to execute this command, we actually can manipulate the output and calculate the percentage of the memory used so, we get something like this : \
+But by using Java to execute this command, we actually can manipulate the output and calculate the percentage of the memory used so, we get something like this : 
+\
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%201.PNG)
 
 
@@ -71,7 +72,8 @@ In the menu, you can:
 
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202.PNG)
 
-The result is:\
+The result is:
+\
 
 ![](https://github.com/SamoudiAnas/top-command-linux-with-java/blob/main/top%202u.PNG)
 > 3 - Kill a process
@@ -90,4 +92,4 @@ The Result is :
  - Mehdi Moualim (moualimmehdi@gmail.com)
  
  
- # You Reached The End! 
+ # You Have Reached The End! 
